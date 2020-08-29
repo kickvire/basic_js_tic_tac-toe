@@ -1,0 +1,34 @@
+.cell {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #f1c40f;
+}
+.row {
+  display: flex;
+  margin-left: 5px;
+}
+#game-container {
+  margin: 10px 10px;
+}
+.hide {
+  display: none;
+}
+.parent {
+  margin-left: 10%;
+}
+h1 {
+  color: #ae8e27;
+}
+body {
+  background-color: #99f2c8;
+}
+input[type] {
+  border-radius: 5px;
+}
